@@ -1,4 +1,4 @@
-<img style="align=center" src='https://github.com/mymmon/python-100-practice/blob/master/_Pic/%E9%A5%BC%E5%B9%B2.png' />
+<div align=center><img src='https://github.com/mymmon/python-100-practice/blob/master/_Pic/%E9%A5%BC%E5%B9%B2.png' /></div>
 
 # Python 100 Practice
 
