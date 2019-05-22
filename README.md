@@ -1,6 +1,6 @@
 <div align=center><img src='https://github.com/mymmon/python-100-practice/blob/master/_Pic/%E9%A5%BC%E5%B9%B2.png' /></div>
 
-# Python 100 Practice
+# COOKIES
 
 Python - 100天从新手到大师 磨刀手记。
 
