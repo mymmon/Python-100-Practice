@@ -1,4 +1,4 @@
-<div style="align=center">![燃烧吧!](https://github.com/mymmon/python-100-practice/blob/master/_Pic/%E9%A5%BC%E5%B9%B2.png)</div>
+<img style="align=center" src='https://github.com/mymmon/python-100-practice/blob/master/_Pic/%E9%A5%BC%E5%B9%B2.png' />
 
 # Python 100 Practice
 
